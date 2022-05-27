@@ -37,5 +37,12 @@ How to create a branch
 Master
 	git checkout -b A
 		touch a.html
-	
+
+
+
+repo/repository link
+
+https://github.com/anildalar/Git-Assignment-1.git
+
+How to check all the branch
 		
