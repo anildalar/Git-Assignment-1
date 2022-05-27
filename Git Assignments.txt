@@ -1,0 +1,41 @@
+Git Assignment:-
+		
+
+Create a git repository:
+Create Some Git Branch:
+
+
+Assign 1
+		Branch 	A
+					a.html
+		Branch 	B
+					b.html
+		Branch C
+					c.html
+
+Create a git repository:
+Create Some Git Branch:
+
+Assign 2
+		Branch 	A
+					a.html
+		Branch 	B
+					a.html
+					b.html
+		Branch C
+					a.html
+					b.html
+					c.html
+				
+
+How to create a branch   
+	1. Blank
+	2. From existing branch
+
+	git checkout -b <BranchName>
+
+Master
+	git checkout -b A
+		touch a.html
+	
+		
